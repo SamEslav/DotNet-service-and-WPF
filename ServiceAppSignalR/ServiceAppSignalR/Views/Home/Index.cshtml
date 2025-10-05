@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="list">
+</div>
+<h3>Agregar País</h3>
+<input type="text" id="country" placeholder="País" />
+<input type="number" id="quantity" placeholder="Cantidad" />
+<button onclick="addPopulation()">Agregar</button>
+
+<h3>Eliminar País</h3>
+<input type="number" id="deleteId" placeholder="ID" />
+<button onclick="deletePopulation()">Eliminar</button>
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+
+
+<script>
+    var connection = new signalR.HubConnectionBuilder()
+        .withUrl("/population")
+        .build();
+
+    connection.start().then(() => console.log("conectado"))
+        .catch((err) => console.error(err));
+
+    connection.on("Receive", (population) => {
+        const container = document.getElementById("list");
+        container.innerHTML = "";
+
+        // Crear tabla
+        const table = document.createElement("table");
+        table.border = "1";
+        table.style.width = "100%";
+
+        // Encabezado
+        const header = table.insertRow();
+        const thCountry = document.createElement("th");
+        thCountry.textContent = "País";
+        const thQuantity = document.createElement("th");
+        thQuantity.textContent = "Cantidad";
+        header.appendChild(thCountry);
+        header.appendChild(thQuantity);
+
+        // Filas de datos
+        population.forEach((element) => {
+            const row = table.insertRow();
+            const cellCountry = row.insertCell();
+            cellCountry.textContent = element.country;
+            const cellQuantity = row.insertCell();
+            cellQuantity.textContent = element.quantity;
+        });
+
+        container.appendChild(table);
+    });
+
+        function addPopulation() {
+        const country = document.getElementById("country").value;
+        const quantity = parseInt(document.getElementById("quantity").value);
+        connection.invoke("AddPopulation", { country: country, quantity: quantity })
+            .catch(err => console.error(err));
+    }
+
+    function deletePopulation() {
+        const id = parseInt(document.getElementById("deleteId").value);
+        connection.invoke("DeletePopulation", id)
+            .catch(err => console.error(err));
+    }
+</script>

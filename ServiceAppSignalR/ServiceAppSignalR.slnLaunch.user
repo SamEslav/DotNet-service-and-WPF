@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ServiceAppSignalR\\ServiceAppSignalR.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WpfAppClient\\WpfAppClient\\WpfAppClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
