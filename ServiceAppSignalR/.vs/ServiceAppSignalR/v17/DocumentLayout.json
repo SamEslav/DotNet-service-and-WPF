@@ -1,12 +1,261 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\mibasededatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\mibasededatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\hubconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\hubconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\populationhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\populationhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\populationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\populationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|c:\\users\\mx-s.eslava\\source\\repos\\serviceappsignalr\\serviceappsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B4AC91-8E2C-49D2-88CC-FBEFEB81CB8C}|ServiceAppSignalR\\ServiceAppSignalR.csproj|solutionrelative:serviceappsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServiceAppSignalR\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T16:44:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\TblUser.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\TblUser.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\TblUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Producto.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:26.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Product.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:25.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Population.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Population.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\Population.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Population.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\Population.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:24.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\Notification.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:23.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiBaseDeDatosContext.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\MiBaseDeDatosContext.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\MiBaseDeDatosContext.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\MiBaseDeDatosContext.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\MiBaseDeDatosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:22.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HubConnection.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\HubConnection.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\HubConnection.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\HubConnection.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\HubConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:20.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ServiceAppSignalR\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T16:44:17.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ServiceAppSignalR\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T16:44:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PopulationHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\PopulationHostedService.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\PopulationHostedService.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\PopulationHostedService.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\PopulationHostedService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:44:09.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PopulationHub.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\PopulationHub.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\PopulationHub.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\PopulationHub.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\PopulationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:43:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceAppSignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\MX-S.Eslava\\source\\repos\\ServiceAppSignalR\\ServiceAppSignalR\\Program.cs",
+              "RelativeToolTip": "ServiceAppSignalR\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:43:37.858Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
